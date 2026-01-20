@@ -1,0 +1,11 @@
+{
+  "name": "Net20 Cloudstream Repo",
+  "url": "https://github.com/YOURNAME/cloudstream-net20",
+  "description": "Net20.cc provider for Cloudstream (TMDB auto-load, free embeds)",
+  "providers": [
+    {
+      "name": "Net20",
+      "path": "providers/Net20Provider.kt"
+    }
+  ]
+}
